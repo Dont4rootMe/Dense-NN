@@ -9,6 +9,8 @@ scipy = "*"
 icecream = "*"
 matplotlib = "*"
 scikit-learn = "*"
+tabulate = "*"
+tqdm = "*"
 
 [dev-packages]
 ipykernel = "*"
